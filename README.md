@@ -1,5 +1,5 @@
 - Hi, I’m Maciek 
-- I'm Power Platform Developer and AI Engineer
+- I'm Power Platform Developer & AI Engineer
 - If you want to contact me, write: k4czku@gmail.com or maciej.nosinski2000@gmail.com
 
 
