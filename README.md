@@ -16,7 +16,10 @@ Languages
 
 Technologies
 
-<img src="https://img.shields.io/badge/Node.js-%2343853d.svg?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" /> <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361dafb&style=flat-square" alt="React" /> <img src="https://img.shields.io/badge/Mysql-%234479a1.svg?logo=MySQL&logoColor=white&style=flat-square" alt="MySQL" /> 
+<img src="https://img.shields.io/badge/Node.js-%2343853d.svg?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" /> 
+<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361dafb&style=flat-square" alt="React" /> 
+<img src="https://img.shields.io/badge/Mysql-%234479a1.svg?logo=MySQL&logoColor=white&style=flat-square" alt="MySQL" /> 
+<img src="https://img.shields.io/badge/snowflake-3776AB?style=for-the-badge&logo=snowflake&logoColor=white" />
 
 
 Tools
