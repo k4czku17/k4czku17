@@ -1,6 +1,5 @@
 - Hi, I’m Maciek 
-- I'm Power Platform Developer 
-- I’m currently learning Python and .NET
+- I'm Power Platform Developer and AI Engineer
 - If you want to contact me, write: k4czku@gmail.com or maciej.nosinski2000@gmail.com
 
 
